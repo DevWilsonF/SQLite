@@ -37,7 +37,7 @@ Esta propiedad  indica que los registros almacenados en esta columna  tienen un 
 # check  
 Esta propiedad que se le atribuye a una columna o atributo  indica  cuales son los datos que son permitidos por ejemplo genero en el cual se le indica que los unicos datos que se pueden alamacenar por medio de condiciones.
 
-<img src="READMESQLITE/constraints.PNG" alt="...">
+<img src="READMESQLITE/contraints.PNG" alt="...">
   
 # Alter table
 Este es una palabre reservada el cual es un comando DDL  el cual esta configurada para realizar modificaciones a una tabla como el nombre el nobre de la tabla o los atributos de la tabla asi mismo como su tipo de dato  y sus propiedades.
