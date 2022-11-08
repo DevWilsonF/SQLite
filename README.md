@@ -24,15 +24,21 @@ la llave primaria permite identificar un registro dentro de una tabla este pipo 
   
   
 <img src="READMESQLITE/PrimaryKey.PNG" alt="PrimaryKey">
+  
 # Not Null
 esta propiedad nos permite que el regitro de este campo o columna  no puede quedar vacio por lo que es obligatorio almacenar algun registro
+  
+<img src="READMESQLITE/contraints.PNG" alt="...">
   
 # Unique 
 Esta propiedad que se le da a una columna indica que este campo es unico  y no puede registrarse o almacenar mas registros con el mismo dato.
 
-  
+<img src="READMESQLITE/contraints.PNG" alt="...">  
+
 # Default
 Esta propiedad  indica que los registros almacenados en esta columna  tienen un valor  predeterminado por lo tanto enel caso que nos se agregue un dato  este tomara el indicado previamente
+  
+<img src="READMESQLITE/contraints.PNG" alt="...">
   
 # check  
 Esta propiedad que se le atribuye a una columna o atributo  indica  cuales son los datos que son permitidos por ejemplo genero en el cual se le indica que los unicos datos que se pueden alamacenar por medio de condiciones.
