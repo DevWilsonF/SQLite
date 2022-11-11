@@ -62,5 +62,8 @@ Este es un comando DDL el cual su funcion es eliminar bases de datos vistas tabl
 <img src="READMESQLITE/drop.PNG" alt="drop">
   
 # BackUp, Restore
+.backup este comando es usado para realiza un respaldo de toda la informacion de la base de datos y este se guarda en el directorio actual que se encuentre en el momento
+.restore este comando  se usa para srestaurar la informacion guardada en la base de datos se le indica el nombre con el cual se realizo el backup y reestablece toda la informacion completa
   
-  
+  ![image](https://user-images.githubusercontent.com/108008266/201249525-8a55abf4-0b49-4a5d-98cf-1e6ba010ee0d.png)
+
